@@ -1,0 +1,6 @@
+package: github.com/y-okubo/leveldb-sample
+import:
+- package: github.com/syndtr/goleveldb
+  subpackages:
+  - leveldb
+  - leveldb/util

@@ -1,0 +1,8 @@
+hash: 91d5ba51c7ba3116f6eb53d3704a57377bbd805c4c3041ac5ece259558b9a1a2
+updated: 2018-02-02T14:36:47.7206+09:00
+imports:
+- name: github.com/syndtr/goleveldb
+  version: 3d8f4155ffd9029d32e5cf03853b58759b6e3710
+  subpackages:
+  - leveldb
+testImports: []
